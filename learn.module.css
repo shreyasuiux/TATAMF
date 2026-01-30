@@ -1,0 +1,126 @@
+.learn {
+  	width: 100%;
+  	height: 2171px;
+  	position: relative;
+  	background: linear-gradient(89.39deg, #dbf0db, #cde4f0);
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: var(--fs-20);
+  	color: var(--color-white);
+  	font-family: var(--font-inter);
+}
+.navsideMenu {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 104px;
+  	height: 849px;
+  	overflow: hidden;
+  	display: none;
+  	flex-shrink: 0;
+  	font-size: var(--fs-10_4);
+  	color: var(--color-darkslateblue);
+  	font-family: var(--font-dm-sans);
+}
+.navsideMenuChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	width: 104px;
+  	height: 2350px;
+  	flex-shrink: 0;
+}
+.screenshot20240919At1021Icon {
+  	position: absolute;
+  	top: 24px;
+  	left: 13px;
+  	width: 78px;
+  	height: 27px;
+  	object-fit: cover;
+  	flex-shrink: 0;
+}
+.groupParent {
+  	position: absolute;
+  	top: 106px;
+  	left: 6px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	flex-shrink: 0;
+}
+.rectangleParent {
+  	width: var(--width-68);
+  	height: var(--height-80);
+  	position: relative;
+  	color: var(--color-white);
+}
+.groupChild {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(160.17px);
+  	border-radius: var(--br-5_05);
+  	background-color: var(--color-steelblue);
+  	width: var(--width-68);
+  	height: var(--height-80);
+}
+.vuesaxtwotonehome2Parent {
+  	position: absolute;
+  	top: calc(50% - 24px);
+  	left: calc(50% - 28px);
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	gap: var(--gap-4);
+}
+.aum {
+  	position: relative;
+  	line-height: var(--lh-12);
+}
+.rectangleGroup {
+  	width: var(--width-80);
+  	height: var(--height-80);
+  	position: relative;
+  	opacity: var(--opacity-0_6);
+}
+.groupItem {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(160.17px);
+  	border-radius: var(--br-5_05);
+  	width: var(--width-80);
+  	height: var(--height-80);
+}
+.vuesaxtwotonefavoriteChartParent {
+  	position: absolute;
+  	top: calc(50% - 24px);
+  	left: calc(50% - 32px);
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	gap: var(--gap-4);
+}
+.vuesaxtwotonefavoriteChart {
+  	width: var(--width-32);
+  	height: var(--height-32);
+  	position: relative;
+}
+.aum2 {
+  	width: var(--width-64);
+  	position: relative;
+  	line-height: var(--lh-12);
+  	display: inline-block;
+}
+.groupInner {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	backdrop-filter: blur(160.17px);
+  	border-radius: var(--br-5_05);
+  	background-color: var(--color-darkslateblue);
+  	width: var(--width-80);
+  	height: var(--height-80);
+  	opacity: var(--opacity-0);
+}

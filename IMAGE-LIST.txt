@@ -1,0 +1,51 @@
+REQUIRED IMAGES FOR /public/images/ DIRECTORY:
+
+Navigation/Header:
+- screenshot-2024-09-19.png (logo, 2 variants)
+- vector.svg
+- vector-2.svg  
+- vector-3.svg
+- group.png
+- group-child.png
+- group-child-10.svg
+
+Learning Cards Icons:
+- container-icon.svg
+- icon-2.svg
+- icon-3.svg
+- container-icon-4.svg
+- arrow-icon.svg
+
+Learning Format Images:
+- blogs-image.png
+- podcasts-image.png
+- videos-image.png
+- videos-image-2.png
+- playlists-image.png
+- play-icon.svg
+
+Hero Section:
+- hero-image.png
+- hero-image-2.png
+
+Content Cards:
+- card-1.png
+- card-2.png
+- card-3.png
+- card-4.png
+- card-5.png
+
+Icons:
+- blog-icon.png
+- small-blog-icon.svg
+- playlist-icon.svg
+- podcast-icon.svg
+- video-icon.svg
+- star-icon.svg
+- arrow-right.svg
+- arrow-right-2.svg
+
+TOTAL: Approximately 35 image files needed
+
+Note: Make sure all images are properly sized and optimized for web use.
+You can extract these from your current React project's public/assets folder.
