@@ -112,3 +112,4 @@ Fonts are loaded via Google Fonts in globals.css:
 
 Due to the large size of the CSS file (~2000 lines), you'll need to copy the complete CSS from `index.module.css` in your original project and rename it to `learn.module.css`. All class names remain the same and are automatically scoped by Next.js CSS Modules.
 # TATAMF
+# TATAMF
